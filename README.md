@@ -1,2 +1,6 @@
 # MadCow
 Simulate introduction of bovine spongiform encephelopathy into the US
+
+Scientific reports available here:
+https://www.researchgate.net/publication/326211855_Harvard_Center_for_Risk_Analysis_EVALUATING_THE_RISK_OF_BOVINE_SPONGIFORM_ENCEPHALOPATHY_IN_THE_UNITED_STATES
+https://www.researchgate.net/publication/325604524_Evaluation_of_the_Potential_for_Bovine_Spongiform_Encephelopathy_in_the_United_States
