@@ -1,0 +1,75 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: MadCow - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\JOSHCO~1\LOCALS~1\Temp\RSP42.tmp" with contents
+[
+/nologo /MLd /w /W0 /Gm /GR /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/MadCow.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\Work - Desktop\Projects\1999-2 Mad Cow\Simulation\Source\US BSE Model\Version 2.33 2005 12 02\madcow.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\JOSHCO~1\LOCALS~1\Temp\RSP42.tmp" 
+Creating temporary file "C:\DOCUME~1\JOSHCO~1\LOCALS~1\Temp\RSP43.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/MadCow.pdb" /debug /machine:I386 /out:"Debug/MadCow.exe" /pdbtype:sept 
+".\Debug\globals.obj"
+".\Debug\madcow.obj"
+".\Debug\bovine.obj"
+".\Debug\bovineGroup.obj"
+".\Debug\bovineHerd.obj"
+".\Debug\sickBovine.obj"
+".\Debug\mersenne.obj"
+".\Debug\random.obj"
+".\Debug\stoc1.obj"
+".\Debug\userintf.obj"
+".\Debug\functTable.obj"
+".\Debug\bovineHerdIterator.obj"
+".\Debug\AMInspector.obj"
+".\Debug\feeder.obj"
+".\Debug\feedProducer.obj"
+".\Debug\feedTransporter.obj"
+".\Debug\foodInspector.obj"
+".\Debug\materialize.obj"
+".\Debug\MBMTransporter.obj"
+".\Debug\PMInspector.obj"
+".\Debug\renderer.obj"
+".\Debug\splitter.obj"
+".\Debug\SRMInspector.obj"
+".\Debug\stunner.obj"
+".\Debug\birthVisitor.obj"
+".\Debug\bloodInfector.obj"
+".\Debug\deathVisitor.obj"
+".\Debug\genesisVisitor.obj"
+".\Debug\proteinInfector.obj"
+".\Debug\randomInfector.obj"
+".\Debug\spontInfector.obj"
+".\Debug\totalClinicalVisitor.obj"
+".\Debug\totalInfectedVisitor.obj"
+".\Debug\totalNumVisitor.obj"
+".\Debug\emboli.obj"
+".\Debug\feed.obj"
+".\Debug\feedGroup.obj"
+".\Debug\meal.obj"
+".\Debug\mealGroup.obj"
+".\Debug\organ.obj"
+".\Debug\reporter.obj"
+".\Debug\MBMTransporter_Dead.obj"
+".\Debug\Renderer_Dead.obj"
+".\Debug\SRMInspector_Dead.obj"
+]
+Creating command line "link.exe @C:\DOCUME~1\JOSHCO~1\LOCALS~1\Temp\RSP43.tmp"
+<h3>Output Window</h3>
+Compiling...
+madcow.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+MadCow.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
